@@ -2,6 +2,8 @@
 
 namespace Netflex\Log;
 
+use Netflex\Log\LogManager;
+
 use Illuminate\Log\LogServiceProvider as ServiceProvider;
 
 class LogServiceProvider extends ServiceProvider
